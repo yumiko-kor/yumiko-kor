@@ -33,6 +33,6 @@
 <div align=center><h1>🌟 Status 🌟</h1></div>
 
 <div style="display: flex;">
-  <img src='https://github-readme-stats.vercel.app/api?username=yhyem&show_icons=true&theme=radical' style="width: 420px;"/>
+  <img src='https://github-readme-stats.vercel.app/api?username=yumiko-kor&show_icons=true&theme=radical' style="width: 420px;"/>
   <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=hm0120' />
 </div>
