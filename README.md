@@ -7,6 +7,8 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Vue-5dbb63?style=flat-square&logo=Vue&logoColor=white"/></a>
+
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
   <br>
@@ -28,4 +30,8 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"> 
  <br/>
+</div>
+
+<div display="flex" align=center>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiko-kor&hide=TeX&layout=compact">
 </div>
