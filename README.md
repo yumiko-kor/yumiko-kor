@@ -1,4 +1,6 @@
+<p align="center" width="70%">
 ![image](https://github.com/yumiko-kor/yumiko-kor/assets/78920416/0aaa130c-7819-4cc7-8011-a39127412ca2)
+</p>
 
 <div align=center><h3>Tech Stack</h1></div>
 
