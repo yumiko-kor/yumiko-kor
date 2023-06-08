@@ -5,8 +5,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="http://www.w3.org/1999/xlink">
   <br>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
@@ -28,11 +27,4 @@
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"> 
  <br/>
-</div>
-
-<div align=center><h1>🌟 Status 🌟</h1></div>
-
-<div style="display: flex;">
-  <img src='https://github-readme-stats.vercel.app/api?username=yumiko-kor&show_icons=true&theme=radical' style="width: 420px;"/>
-  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=yumiko-kor' />
 </div>
